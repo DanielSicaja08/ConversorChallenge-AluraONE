@@ -1,4 +1,4 @@
-<h1 align="center"> <em> Alura ONE - Conversor </em></h1>
+<h1 align="center"> <em> ALURA ORACLE - ONE - Conversor </em></h1>
 
 # Descripción
 Este proyecto fue realizado como desafío o Challenge del programa Oracle Next Education (ONE) en conjunto con Alura Latam.
@@ -30,7 +30,8 @@ Este proyecto fue realizado como desafío o Challenge del programa Oracle Next E
               
 Si se ingresa valores invalidos (letras o cualquier simbolo) se le informa al usuario que debe ingresar sólo números.
 
-## Interfaz
+## Video
+https://youtu.be/xFnjoMJyCMM
 
 
 
