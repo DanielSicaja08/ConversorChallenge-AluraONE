@@ -1,4 +1,4 @@
-<h1 align="center"> <em> Alura Conversor </em></h1>
+<h1 align="center"> <em> Alura ONE - Conversor </em></h1>
 
 # Descripción
 Este proyecto fue realizado como desafío o Challenge del programa Oracle Next Education (ONE) en conjunto con Alura Latam.
